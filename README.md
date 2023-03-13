@@ -28,4 +28,5 @@ Carousel(items: Item.items, duration: 2.0) { item in
                 }
 ```
 
-
+## Important
+Your model size will effect the design(space between views). If you have less items, you can repeat items one more time with new id in your array. Recommended size is between 10 and 12
