@@ -1,6 +1,5 @@
 //
-//  CourosialEffect.swift
-//  PantoneChips
+//  CarouselView.swift
 //
 //  Created by Abdullah Kardaş on 12.03.2023.
 //
