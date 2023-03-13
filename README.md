@@ -1,8 +1,9 @@
 # CarouselView
 
-
-
-![Screen_Recording_2023-03-13_at_22_55_06_AdobeExpress](https://user-images.githubusercontent.com/28716129/224845381-f542024c-3ec5-4147-abe1-66329f64b96a.gif)
+<p align="center">
+  <img alt="Light" src="https://user-images.githubusercontent.com/28716129/224845381-f542024c-3ec5-4147-abe1-66329f64b96a.gif" width="24%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+ 
 
 
 ## Usage
